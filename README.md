@@ -33,4 +33,4 @@ Details for running specific chapter examples are available in the corresponding
 
 Some later Chapters (such as Chapters 11 and 13) may require a bit more setup. The details for doing so are described in the corresponding readme's and in the Chapter's themselves.
 
-#### Next: [Chapter 1](chapter-1.md)
+### Next: [Chapter 1](chapter-1.md)
